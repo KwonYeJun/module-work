@@ -1,0 +1,27 @@
+{
+  "name": "module-work",
+  "version": "1.0.0",
+  "description": "\"연습이야\"",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KwonYeJun/module-work.git"
+  },
+  "keywords": [
+    "\"연습\""
+  ],
+  "author": "\"나\"",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KwonYeJun/module-work/issues"
+  },
+  "homepage": "https://github.com/KwonYeJun/module-work#readme",
+  "dependencies": {
+    "movier": "^3.0.0",
+    "mysql": "^2.18.1",
+    "pokemon": "^2.3.4"
+  }
+}
